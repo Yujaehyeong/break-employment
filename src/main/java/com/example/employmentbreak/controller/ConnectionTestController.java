@@ -8,6 +8,6 @@ public class ConnectionTestController {
     @GetMapping("hello")
     public String helloWorld() {
 
-        return "HelloWorld";
+        return "Hello SpringBoot!!";
     }
 }
